@@ -1,5 +1,5 @@
-# academy-template-readme-projects
-![](https://i.imgur.com/xG74tOh.png)
+# StartHub
+![]()
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cubos-academy/academy-template-readme-projects?color=%2304D361">

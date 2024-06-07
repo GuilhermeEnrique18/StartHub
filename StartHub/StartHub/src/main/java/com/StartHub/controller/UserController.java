@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import com.StartHub.dtos.UserDto;
-import com.StartHub.model.User;
 import com.StartHub.service.UserService;
 
 import java.util.List;

@@ -1,17 +1,13 @@
 package com.StartHub.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 
 import com.StartHub.dtos.UserDto;
 import com.StartHub.model.User;
 import com.StartHub.repository.UserRepository;
-
-import jakarta.persistence.EntityNotFoundException;
-
 import java.util.List;
-import java.util.Optional;
+
 
 @Service
 public class UserService {
